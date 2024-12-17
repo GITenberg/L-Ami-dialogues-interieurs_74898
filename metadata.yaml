@@ -1,0 +1,33 @@
+_repo: L-Ami-dialogues-interieurs_74898
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wagner, Charles
+    birthdate: 1852
+    deathdate: 1918
+    gutenberg_agent_id: '25671'
+    url: http://www.gutenberg.org/2009/agents/25671
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Wagner
+    - https://fr.wikipedia.org/wiki/Charles_Wagner
+description: ''
+gutenberg_issued: '2024-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74898'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k54907018
+pgterms:marc905: 20240918124907wagner
+pgterms:marc906: '1917'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica) and The Internet
+  Archive)
+publication_note: '  $aParis :$bFischbacher, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'L''Ami: dialogues intérieurs'
+url: http://www.gutenberg.org/ebooks/74898
